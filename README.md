@@ -1,1 +1,1 @@
-# Sudoku-Game-with-Java
+# Sudoku-Game
